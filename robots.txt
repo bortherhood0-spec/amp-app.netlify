@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://kumislele4d-amp.netlify.app/sitemap.xml
